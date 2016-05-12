@@ -1,0 +1,39 @@
+Installation du certificat dans .ssh
+
+18/03/16
+installation XCode
+installation git via LDC
+installation theme console
+activation couleurs console dans .bash_profile
+
+22/03/16
+installation homebrew
+installation node&npm (via brew)
+installation bower (via npm)
+installation bootstrap (via bower)
+installation jquery (via bower)
+
+13/04/16
+JDK + Eclipse
+http://stackoverflow.com/questions/26252591/mac-os-x-and-multiple-java-versions
+http://hanxue-it.blogspot.com/2014/05/installing-java-8-managing-multiple.html
+installation cask (via brew)
+installation jenv (via brew)
+$ echo 'eval "$(jenv init -)"' >> ~/.bash_profile
+installation evernote (via cask)
+installation jdk-8u77 (via cask)
+installation tomcat (via brew)
+installation eclipse-jee (via cask)
+
+18/04/16
+https://github.com/sindresorhus/quick-look-plugins
+brew cask install etc etc
+brew install fish
+=> changed /etc/shells (cf brew info fish)
+
+10/05/16
+uninstall magiprefs (noticed problems in logs & not using functionality)
+defaults write com.apple.driver.AppleBluetoothMultitouch.mouse MouseHorizontalScroll -bool NO (didn’t work)
+
+
+
